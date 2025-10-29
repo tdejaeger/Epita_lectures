@@ -94,6 +94,12 @@ Build a strong foundation in statistics and probability theory with practical ex
 1. Clone this repository to your local machine:  
 ```bash
 git clone git@github.com:USERNAME/EPITA_Lectures.git
+```
+
+2. Navigate into different folder:  
+```bash
+cd Epita_lectures/
+```
 
 ## LICENSE
 
