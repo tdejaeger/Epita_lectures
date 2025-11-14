@@ -1,0 +1,15 @@
+2023-11-01 10:00:01 INFO System boot complete.
+2023-11-01 10:01:03 ERROR Failed to load module 'xyz'.
+2023-11-01 10:02:45 WARNING Disk space low.
+2023-11-01 10:04:12 Info User login: alice
+2023-11-01 10:05:07 error Unable to reach server.
+2023-11-01 10:06:30 warning High CPU usage detected.
+2023-11-01 10:07:55 ERROR Segmentation fault occurred.
+2023-11-01 10:08:15 INFO Scheduled backup started.
+2023-11-01 10:09:40 WARNING Memory leak suspected.
+2023-11-01 10:10:22 error Disk read failure.
+2023-11-01 10:11:33 info User logout: alice
+2023-11-01 10:12:55 ERROR Network unreachable.
+2023-11-01 10:13:17 warning Service response delay.
+2023-11-01 10:14:42 Info System check passed.
+2023-11-01 10:15:59 ERROR Unable to authenticate user.
