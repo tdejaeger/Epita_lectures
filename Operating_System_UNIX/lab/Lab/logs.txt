@@ -1,0 +1,12 @@
+Line 1: Reading configuartion... done.
+Line 2: ERROR: Falied to parse 'config.ini' — missing '=' on line 23.
+Line 3: error connecting to the databse. Retrying...
+Line 4: ERROR: Timeout while waiting for responce.
+Line 5: Disk check: 1 warning, 3 errors found.
+Line 6: error: Invalid user input detected.
+Line 7: ERROR 403: Forbiden acces to /admin/panel.
+Line 8: error in script.sh line 45: unexpected `fi`.
+Line 9: ERROR: Unable to locate dependency 'libsys.so'.
+Line 10: error writing log fle — permission denied.
+Line 11: Retrying... error persists.
+Line 12: All retries failed due to critical ERROR.
