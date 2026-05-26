@@ -14,7 +14,7 @@ Learn how to effectively represent and explore data through visualization. Topic
 - **Session 3:** Matplotlib & Seaborn: Visualization Essentials  
 - **Session 4:** Cartography & Geospatial Visualization  
 - **Session 5:** Case Studies: Data Journalism  
-- **Session 6:** Visualizing Multidimensional Data & Dimensionality Reduction *(Work on your project)*  
+- **Session 6:** Visualizing Multidimensional Data & Dimensionality Reduction
 - **Session 7:** Project Presentation  
 
 ---
@@ -62,30 +62,48 @@ Gain a deep understanding of Unix/Linux systems, command-line usage, scripting, 
 - **Session 8:** Processes & Init Systems  
 - **Session 9:** Users, Groups & Permissions  
 - **Session 10:** Text Editors: vi/vim  
-- **Session 11:** GitHub  
+- **Session 11:** Networking  
 - **Session 12:** Remote Access, Downloads & Shell Customization  
 
 ---
 
-##  Mathematics: Statistics and Probability (Bachelor, 35h)
+##  Mathematics: Statistics and Probability: Semester 1 (Bachelor, 35h)
 
 Build a strong foundation in statistics and probability theory with practical examples and exercises.
 
-- **Session 1:** Why Study Statistics?  
-- **Session 2:** Graphical Representation  
-- **Session 3:** Descriptive Statistics  
-- **Session 4:** Boxplots & Normal Distribution  
-- **Session 5:** Basic Probability & Counting Rules  
-- **Session 6:** Conditional Probability & Independence  
-- **Session 7:** Total Probability & Bayes' Theorem  
-- **Session 8:** Discrete Random Variables  
-- **Session 9:** Continuous Random Variables  
-- **Session 10:** Joint Distributions & Correlation  
-- **Session 11:** Exercises/Summary  
-- **Session 12:** Central Limit Theorem & Simulation  
-- **Session 13:** Point Estimation & Maximum Likelihood Estimation (MLE)  
-- **Session 14:** Confidence Intervals  
-- **Session 15:** Hypothesis Testing – Basics  
+
+- **Session 1:** Why Study Statistics?
+- **Session 2:** Graphical Representation
+- **Session 3:** Descriptive Statistics
+- **Session 4:** Boxplots & Normal Distribution
+- **Session 5:** Basic Probability & Counting Rules
+- **Session 6:** Conditional Probability & Independence
+- **Session 7:** Total Probability & Bayes' Theorem
+- **Session 8:** Discrete Random Variables
+- **Session 9:** Continuous Random Variables
+- **Session 10:** Joint Distributions & Correlation
+- **Session 11:** Exercises and Summary
+- **Session 12:** Central Limit Theorem & Simulation
+- **Session 13 & 14:** Point Estimation & Maximum Likelihood Estimation
+- **Session 15:** Exam Preparation and Exercises
+
+##  Mathematics: Statistics and Probability Semester 2 (Bachelor, 21h)
+
+Build a strong foundation in statistics and probability theory with practical examples and exercises.
+
+
+- **Session 1:** Review of Semester 1
+- **Session 2:** Confidence Intervals for a Single Sample
+- **Session 3:** Confidence Intervals for Two Samples
+- **Session 4:** Hypothesis Testing and ANOVA
+- **Session 5:** Simple Linear Regression and Correlation
+- **Session 6:** Multiple Linear Regression
+- **Session 7:** Analysis of Categorical Data
+- **Session 8:** Bayesian Inference and MCMC
+- **Session 9:** Exam Preparation and Exercises
+
+
+ 
 
 ---
 
